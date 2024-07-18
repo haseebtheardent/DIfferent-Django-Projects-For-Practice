@@ -1,0 +1,1 @@
+# DIfferent-Django-Projects-For-Practice
